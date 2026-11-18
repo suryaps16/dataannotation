@@ -5,7 +5,8 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "DataAnnotation",
       "options": {
-        "baseURL": "https://app-llmproxy.dataannotation.tech/api/llm_proxy/openai/v1"
+        "baseURL": "https://app-llmproxy.dataannotation.tech/api/llm_proxy/openai/v1",
+        "apiKey": "sk-plwkr01-M9NFKMTH2DC76QDWGHVJH6DFKQ4WJA49KQAC3XTJK9ZHHEDX"
       },
 	  "models": {
         "claude-celery": {

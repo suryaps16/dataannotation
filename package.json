@@ -1,0 +1,7 @@
+{
+  "name": "opencode-problem-checker-starter",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Starter workspace for reviewing a problem statement with OpenCode"
+}
